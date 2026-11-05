@@ -1,4 +1,4 @@
-------------------------------------Story behind this Project and conclusion of research---------------------------------------------------
+----------------------------Story behind this Project and conclusion of research------------------------------
 
 This is a game that was made to test the capabilities and how to best optimize the use of AI in a game development cycle.
 
@@ -11,7 +11,7 @@ when they may not have all the information available to them.
 
 These are the two main ways I would recommend using A.I in the development process, as I figured out through this project.
 
-------------------------------------------- How to play APASTRON and run the project---------------------------------------------------
+-------------------------------How to play APASTRON and run the project---------------------------------------
 
 Since there is no executable file or anything like that:
 
