@@ -26,8 +26,11 @@ Goal: Survive against an onslaught of different enemies and hazards such as aste
 ===============Controls===============
 
 WASD to move.
+
 Move your mouse to aim your ship.
+
 left-click to fire your weapon.
+
 right-click to launch a supernova bomb (there is a cooldown between uses)
 
 +++++++++++++++++++++++++Enemies+++++++++++++++++++++++++++
